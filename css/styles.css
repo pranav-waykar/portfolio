@@ -103,7 +103,7 @@ p {
 /* Thin out the marketing headings */
 /* rtl:begin:remove */
 .featurette-heading {
-    letter-spacing: -.05rem;
+    letter-spacing: -.025rem;
     font-family: 'Playfair Display', serif;
     color: #3A3F4A;
     font-weight: 600;
