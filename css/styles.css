@@ -179,6 +179,7 @@ p {
 
 strong {
     font-weight: bold;
+    color: #3A3F4A;
 }
 
 /* CASE STUDY PAGE */
@@ -198,10 +199,20 @@ strong {
     font-family: 'Playfair Display', serif;
     color: #3A3F4A;
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-style: normal;
     line-height: normal;
-    margin-bottom: .25rem;
+    margin-bottom: .5rem;
+}
+
+.case-study-section-subtitle {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #3A3F4A;
+
 }
 
 .case-study-section-divider {
